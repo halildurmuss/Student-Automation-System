@@ -51,5 +51,8 @@ ortalama üzerinde olan kişi sayısı (sınıfın başarı yüzdesi) ve standar
 •	**Python Pandas kullanarak DataFrame ile gerçekleşmiştir. Obs_v2.py şeklinde yazılmıştır. Bu bölümde dosyadan okunan veriler üzerinden pandas ile veri manüpülasyonu 
 üzerine işlemler gerçekleşmiştir.**
 
+![Obs](https://user-images.githubusercontent.com/66306220/221373378-675b113b-53c3-41e0-9c00-249d9fac7a9f.png)
+
+
 
 
